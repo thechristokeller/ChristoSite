@@ -36,3 +36,9 @@ layout: homepage
 - **On parking functions and their combinatorial statistics**
   <br>
   [[Slides](pf_cstat.pdf)] For the UMass Amherst <a href="https://www.math.umass.edu/undergraduate/research-experience" target="_blank">Math REU</a>
+  
+## Teaching
+
+- **Calculus I and II for the Life and Social Sciences**
+<br>
+Assistantship at UMass Amherst (Spring 2019--Present)
