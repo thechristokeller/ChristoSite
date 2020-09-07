@@ -2,4 +2,4 @@
 
 The personal website of Christo M. Keller.
 
-See live (hosted by GitHub) at ![christokeller.website](christokeller.website).
+See live (hosted by GitHub) at [christokeller.website](https://christokeller.website).
