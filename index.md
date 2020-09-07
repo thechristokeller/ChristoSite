@@ -2,67 +2,37 @@
 layout: homepage
 ---
 
-## Research Interests
+## Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Enumerative combinatorics:** generalizations of parking functions
+- **Algebraic combinatorics:** q-analogs, statistics and distributions
+- **Mathematical logic:** systems of modal logic, nonstandard set theory
 
-## News
+## Preprints
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **Rearrangements of k-Naples parking functions**
+  <br>
+  joint with J. Carvalho, L. Colmenarejo, P. Harris, Z. Jones, G. Kirby,<br> A. Ramos, E. Sukarto, N. Tripeny, and A. Vindas - in preparation
 
-## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Counting k-Naples parking functions through permutations and the k-Naples area statistic**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  joint with L. Colmenarejo, P. Harris, Z. Jones, A. Ramos, E. Sukarto, and A. Vindas
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
+  preprint <a href="https://arxiv.org/pdf/2009.01124.pdf">on arXiv</a>, submitted to The Electronic Journal of Combinatorics
 
 
-## Selected Talks
+## Talks
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Rearrangements of Naples parking functions**
   <br>
-  NeurIPS Official Meetups
+  joint with Z. Jones, A. Ramos, and E. Sukarto
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
-
-- **Multi-Class Incremental Learning**
+  [[Slides](naples_re.pdf)] [[Link](https://youtu.be/snc2ViNNuas)] Williams College <a href="https://sites.google.com/view/aimup/" target="_blank">AIM UP REU</a>
+  
+- **Exploring the Naples parking functions**
   <br>
-  School of Computer Science and Engineering, Nanyang Technological University
+  [[Slides](naples_ex.pdf)] [[Link](https://www.youtube.com/watch?v=94yHxXU2xzs)] UConn <a href="https://mathreu.uconn.edu/2020-math-reu-conference/" target="_blank">Math REU Conference</a>
+  
+- **On parking functions and their combinatorial statistics**
   <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+  [[Slides](pf_cstat.pdf)] For the UMass Amherst <a href="https://www.math.umass.edu/undergraduate/research-experience" target="_blank">Math REU</a>

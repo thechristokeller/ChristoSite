@@ -6,7 +6,7 @@
 -->
 <html>
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>Christo M. Keller</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +27,6 @@
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
 
     <link rel="stylesheet" href="./assets/css/style.css">
-
 
   </head>
   <body class="is-preload">
@@ -51,6 +50,12 @@
           {{ site.email }}
           <br>
           {% endif %}
+          <br>
+          <a href="/index.html" style="color: white">About</a>
+          <br>
+          <a href="/blog.html" style="color: white">Blog</a>
+          <br>
+          <a href="/fun.html" style="color: white">Fun</a>
           </header-info>
         </div>
       </header>
@@ -62,7 +67,7 @@
 
       {{ content }}
 
-      <theme-info>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/strata-academic" target="_blank" rel="noopener">Strata Academic</a> theme.</theme-info>
+      <theme-info>Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/yaoyao-liu/strata-academic" target="_blank" rel="noopener">Strata Academic</a> and <a target="_blank" href="https://icons8.com/icons/set/formula-fx">Formula FX</a> by <a target="_blank" href="https://icons8.com">Icons8</a>.</theme-info>
 
       </section>
 
@@ -71,21 +76,7 @@
     <!-- Footer -->
       <footer id="footer">
         <div class="inner">
-          <ul class="icons">
-            {% if site.linkedin %}
-            <li><a href="{{ site.linkedin }}" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-            {% endif %}
-            {% if site.github_link %}
-            <li><a href="{{ site.github_link }}" class="icon brands fa-github"><span class="label">Github</span></a></li>
-            {% endif %}
-            {% if site.google_scholar %}
-            <li><a href="{{ site.google_scholar }}" class="icon brands fa-google"><span class="label">Google Scholar</span></a></li>
-            {% endif %}
-            {% if site.cv_link %}
-            <li><a href="{{ site.cv_link }}" class="icon solid fa-file-pdf"><span class="label">CV</span></a></li>
-            {% endif %}
-          </ul>
-
+        	<!-- Empty for now -->
         </div>
       </footer>
 

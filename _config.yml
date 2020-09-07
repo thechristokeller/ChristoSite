@@ -1,16 +1,14 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
-keywords: minimal academic
+title: Christo Keller 
+# position: Undergraduate Student 
+# affiliation: UMass Amherst
+email: cmkeller@umass.edu
+keywords: christo keller math umass mathematics
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/strata-academic
-linkedin: https://www.linkedin.com/
-cv_link: 
-avatar: ./assets/img/avatar.png
+github_link: https://github.com/thechristokeller
+linkedin: https://www.linkedin.com/in/christokeller
+cv_link: google.com
+avatar: ./assets/img/avatar_f2.jpg
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://strata-academic.yyliu.net/
-remote_theme: yaoyao-liu/strata-academic
+favicon_dark: ./assets/img/favicon-darkmode.png
+description: Christo Keller is an undergraduate student studying pure mathematics at the University of Massachusetts at Amherst.
