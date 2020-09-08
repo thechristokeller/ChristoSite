@@ -12,7 +12,7 @@ layout: homepage
 
 - **Rearrangements of k-Naples parking functions**
   <br>
-  with J. Carvalho, L. Colmenarejo, P. E. Harris, Z. Jones, G. Kirby, <br>A. Ramos Rodríguez, E. Sukarto, N. Tripeny, and A. Vindas Vindas-Meléndez
+  with J. Carvalho, L. Colmenarejo, P. E. Harris, Z. Jones, G. Kirby, <br>A. Ramos Rodríguez, E. Sukarto, N. Tripeny, and A. R. Vindas-Meléndez
 
 - **Counting k-Naples parking functions through permutations and the k-Naples area statistic**
   <br>
