@@ -13,7 +13,6 @@ Where $$f$$ is complex differentiable, it is straightforward to derive the celeb
 <br>
 Thus the pushforward of a vector in the tangent space to a complex differentiable point of $$f$$ is the weighted sum of a scaling and a rotation by $$\pi/2$$.  So the differential is a conformal map --- angles are preserved.
 
-In fact, this characterization is essentially sufficient.  For if $$df$$ is a conformal map, we have that it is a weighted sum of a  we can derive the Cauchy-Riemann equations by working in reverse, and we're done.
-
+It is easy to see that this characterization is also sufficient.  For if $$df$$ is the weighted sum of a scaling and a rotation by $$\pi/2$$, we can derive the Cauchy-Riemann equations by working in reverse, and we're done.
 
 This post results from a discussion I had with <a href="https://people.math.umass.edu/~markman/" target="_blank">Eyal Markman</a> following a lecture on complex analysis. 
