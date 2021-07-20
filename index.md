@@ -43,9 +43,9 @@ joint with Z. Jones, A. Ramos Rodriguez, and E. Sukarto
 <br>
 <a href="https://youtu.be/snc2ViNNuas">Williams College AIM UP Program</a> (July 2020)
 
-- **Exploring the k-Naples parking functions**
+- **Exploring the Naples parking functions**
 <br>
-<a href="https://youtu.be/94yHxXU2xzs">UConn Storrs Mathematics REU Conference</a> (July 2020)
+<a href="https://youtu.be/94yHxXU2xzs">UConn Math REU Conference</a> (July 2020)
 
 - **Parking functions and their combinatorial statistics**
 <br>
