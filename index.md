@@ -25,7 +25,7 @@ layout: homepage
 
 - **Counting k-Naples parking functions through permutations**
 <br>
-Honorable mention, joint with Eunice Sukarto
+Honorable mention, joint with E. Sukarto
 <br>
 <a href="jmm2021-knpf.pdf">JMM Undergraduate Poster Session</a> (Jan. 2021)
 
@@ -41,7 +41,7 @@ Honorable mention, joint with Eunice Sukarto
 <br>
 joint with Z. Jones, A. Ramos Rodriguez, and E. Sukarto
 <br>
-<a href="https://youtu.be/snc2ViNNuas">Williams College AIM UP Undergraduate Program</a> (July 2020)
+<a href="https://youtu.be/snc2ViNNuas">Williams College AIM UP Program</a> (July 2020)
 
 - **Exploring the k-Naples parking functions**
 <br>
