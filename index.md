@@ -41,15 +41,15 @@ Honorable mention, joint with E. Sukarto
 <br>
 joint with Z. Jones, A. Ramos Rodriguez, and E. Sukarto
 <br>
-<a href="https://youtu.be/snc2ViNNuas" target="_blank" rel="noopener noreferrer">Williams College AIM UP Program</a> (July 2020)
+<a href="https://youtu.be/snc2ViNNuas" target="_blank" rel="noopener noreferrer">Williams College AIM UP Program</a> (Jul. 2020)
 
 - **Exploring the Naples parking functions**
 <br>
-<a href="https://youtu.be/94yHxXU2xzs" target="_blank" rel="noopener noreferrer">UConn Math REU Conference</a> (July 2020)
+<a href="https://youtu.be/94yHxXU2xzs" target="_blank" rel="noopener noreferrer">UConn Math REU Conference</a> (Jul. 2020)
 
 - **Parking functions and their combinatorial statistics**
 <br>
-<a href="pf_cstat.pdf" target="_blank" rel="noopener noreferrer">UMass Discrete Mathematics Seminar</a> (June 2020)
+<a href="pf_cstat.pdf" target="_blank" rel="noopener noreferrer">UMass Discrete Mathematics Seminar</a> (Jun. 2020)
 
   
 ## Teaching
