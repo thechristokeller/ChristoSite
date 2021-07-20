@@ -14,42 +14,42 @@ layout: homepage
   <br>
   with L. Colmenarejo, P. E. Harris, Z. Jones, A. Ramos Rodríguez, E. Sukarto, and A. R. Vindas-Meléndez
   <br>
-  appears in <a href="http://ecajournal.haifa.ac.il/">Enumerative Combinatorics and Applications</a> Volume 1, Issue 2 (2021) as <a href="http://ecajournal.haifa.ac.il/Volume2021/ECA2021_S2A11.pdf">Article #S2R11</a>
+  appears in <a href="http://ecajournal.haifa.ac.il/" target="_blank" rel="noopener noreferrer">Enumerative Combinatorics and Applications</a> Volume 1, Issue 2 (2021) as <a href="http://ecajournal.haifa.ac.il/Volume2021/ECA2021_S2A11.pdf" target="_blank" rel="noopener noreferrer">Article #S2R11</a>
 
 
 ## Talks
 
 - **Enumerating the k-Naples parking functions**
 <br>
-<a href="https://youtu.be/Yeb-3fnwxMo">Mass. Undergrad Research Conference</a> (Apr. 2021)
+<a href="https://youtu.be/Yeb-3fnwxMo" target="_blank" rel="noopener noreferrer">Mass. Undergrad Research Conference</a> (Apr. 2021)
 
 - **Counting k-Naples parking functions through permutations**
 <br>
 Honorable mention, joint with E. Sukarto
 <br>
-<a href="jmm2021-knpf.pdf">JMM Undergraduate Poster Session</a> (Jan. 2021)
+<a href="jmm2021-knpf.pdf" target="_blank" rel="noopener noreferrer">JMM Undergraduate Poster Session</a> (Jan. 2021)
 
 - **Counting k-Naples parking functions through permutations**
 <br>
-<a href="https://gcurs.rice.edu/">Gulf Coast Undergrad Research Symposium</a> (Oct. 2020)
+<a href="https://gcurs.rice.edu/" target="_blank" rel="noopener noreferrer">Gulf Coast Undergrad Research Symposium</a> (Oct. 2020)
 
 - **A statistic giving a q-analog for the number of k-NPFs**
 <br>
-<a href="https://youtu.be/IvwsWo6HbdA">UMass Amherst Discrete Mathematics Seminar</a> (Oct. 2020)
+<a href="https://youtu.be/IvwsWo6HbdA" target="_blank" rel="noopener noreferrer">UMass Amherst Discrete Mathematics Seminar</a> (Oct. 2020)
 
 - **Rearrangements of Naples parking functions**
 <br>
 joint with Z. Jones, A. Ramos Rodriguez, and E. Sukarto
 <br>
-<a href="https://youtu.be/snc2ViNNuas">Williams College AIM UP Program</a> (July 2020)
+<a href="https://youtu.be/snc2ViNNuas" target="_blank" rel="noopener noreferrer">Williams College AIM UP Program</a> (July 2020)
 
 - **Exploring the Naples parking functions**
 <br>
-<a href="https://youtu.be/94yHxXU2xzs">UConn Math REU Conference</a> (July 2020)
+<a href="https://youtu.be/94yHxXU2xzs" target="_blank" rel="noopener noreferrer">UConn Math REU Conference</a> (July 2020)
 
 - **Parking functions and their combinatorial statistics**
 <br>
-<a href="pf_cstat.pdf">UMass Discrete Mathematics Seminar</a> (June 2020)
+<a href="pf_cstat.pdf" target="_blank" rel="noopener noreferrer">UMass Discrete Mathematics Seminar</a> (June 2020)
 
   
 ## Teaching
