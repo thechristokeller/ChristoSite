@@ -19,37 +19,37 @@ layout: homepage
 
 ## Talks
 
-- **Enumerating k-Naples parking functions**
+- **Enumerating the k-Naples parking functions**
 <br>
-Massachusetts Undergraduate Research Conference (Jan. 2021)
+<a href="https://youtu.be/Yeb-3fnwxMo">Mass. Undergrad Research Conference</a> (Apr. 2021)
 
 - **Counting k-Naples parking functions through permutations**
 <br>
-Honorable mention, joint with E. Sukarto
+Honorable mention, joint with Eunice Sukarto
 <br>
-2021 JMM Undergraduate Poster Session (Oct. 2020)
+<a href="jmm2021-knpf.pdf">JMM Undergraduate Poster Session</a> (Jan. 2021)
 
 - **Counting k-Naples parking functions through permutations**
 <br>
-Gulf Coast Undergrad Research Symposium (Oct. 2020)
+<a href="https://gcurs.rice.edu/">Gulf Coast Undergrad Research Symposium</a> (Oct. 2020)
 
-- **A statistic giving a q-analog for the number of kNPFs**
+- **A statistic giving a q-analog for the number of k-NPFs**
 <br>
-UMass Amherst Discrete Mathematics Seminar (Oct. 2020)
+<a href="https://youtu.be/IvwsWo6HbdA">UMass Amherst Discrete Mathematics Seminar</a> (Oct. 2020)
 
 - **Rearrangements of Naples parking functions**
 <br>
-Williams College AIM UP Undergraduate Program (July 2020)
-<br>
 joint with Z. Jones, A. Ramos Rodriguez, and E. Sukarto
+<br>
+<a href="https://youtu.be/snc2ViNNuas">Williams College AIM UP Undergraduate Program</a> (July 2020)
 
 - **Exploring the k-Naples parking functions**
 <br>
-UConn Storrs Mathematics REU Conference (July 2020)
+<a href="https://youtu.be/94yHxXU2xzs">UConn Storrs Mathematics REU Conference</a> (July 2020)
 
 - **Parking functions and their combinatorial statistics**
 <br>
-UMass Discrete Mathematics Seminar (June 2020)
+<a href="pf_cstat.pdf">UMass Discrete Mathematics Seminar</a> (June 2020)
 
   
 ## Teaching
