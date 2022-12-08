@@ -4,9 +4,9 @@ layout: homepage
 
 ## Interests
 
-- **Enumerative combinatorics:** generalizations of parking functions
-- **Algebraic combinatorics:** q-analogs, statistics and distributions
-- **Mathematical logic:** systems of modal logic, nonstandard set theory
+- **Quantum computing**: Variational quantum algorithms and applications to quantum networking.
+- **Computational intelligence:** Combinatorial optimization metaheuristics and explainable AI.
+- **General combinatorics:** Digraph optimization problems and k-Naples parking functions.
 
 ## Publications
 
@@ -53,6 +53,10 @@ joint with Z. Jones, A. Ramos Rodriguez, and E. Sukarto
 
   
 ## Teaching
+
+- **General and Applied Calculus I and II**
+<br>
+Assistantship at New Mexico State (2021-2022)
 
 - **Calculus I and II for the Life and Social Sciences**
 <br>
